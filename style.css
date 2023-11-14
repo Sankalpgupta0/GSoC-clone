@@ -228,6 +228,7 @@ li{
     display: grid;
     grid-template-columns: 250px 200px 200px;
     padding: 100px 0px;
+    grid-auto-flow: column;
 }
 .belowMain .RIGHT .box{
     margin: 0px 50px;
