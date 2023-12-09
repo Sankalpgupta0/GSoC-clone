@@ -385,7 +385,7 @@ li{
     top: 20vh;
     border-radius: 15px;
     padding: 10px;
-    overflow: hidden;
+    overflow: scroll;
 }
 .latestNews button{
     height: 50px;
